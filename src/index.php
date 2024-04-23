@@ -1,7 +1,7 @@
 <?php
 // Inclusão da classe JWT
-require 'vendor/autoload.php';
-use JwtManager;
+require '../vendor/autoload.php';
+use Josemarciobarthem\JwtToken\JwtManager;
 
 // Definição da chave secreta
 $secretKey = '';
