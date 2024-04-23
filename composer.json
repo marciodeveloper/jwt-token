@@ -1,0 +1,17 @@
+{
+    "name": "josemarciobarthem/jwt-token",
+    "autoload": {
+        "psr-4": {
+            "Josemarciobarthem\\JwtToken\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jose Marcio Barthem",
+            "email": "marciodeveloper@outlook.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
