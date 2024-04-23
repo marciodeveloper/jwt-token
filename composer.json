@@ -1,7 +1,7 @@
 {
     "name": "josemarciobarthem/jwt-token",
     "description": "Esse projeto simples faz uma validação do token JWT",
-    "licence": "proprietary",
+    "license": "proprietary",
     "autoload": {
         "psr-4": {
             "Josemarciobarthem\\JwtToken\\": "src/"
